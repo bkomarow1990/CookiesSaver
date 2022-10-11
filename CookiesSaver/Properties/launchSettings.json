@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CookiesSaver": {
+      "commandName": "Project",
+      "commandLineArgs": "-browserPath=\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" -url=\"https://ads.tiktok.com/business/creativecenter/inspiration/popular/\" "
+    }
+  }
+}
